@@ -1,22 +1,5 @@
 # projeto-
 
-
-Coffee
-
-and Tips
-
-TUTORIAIS | CLOUD
-
-JP
-14 de Out de 2020
-4 min para ler
-Spring Boot com Spring Data + JPA
-O Spring Data é um dos vários projetos do ecossistema Spring que visa facilitar acesso aos dados através da utilização de modelos e sem a necessidade de escrever códigos SQL.
-
-
-Qualquer manipulação de dados pode ser feita através de interfaces Java resultando em um código muito mais compreensível  e mais limpo.
-
-
 Criando o projeto
 
 
@@ -419,7 +402,5 @@ Coffee and Tips
 © 2021
  
 
-Posts
 
-Quem somos
 
